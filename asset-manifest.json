@@ -1,15 +1,13 @@
 {
   "files": {
-    "main.css": "./static/css/main.6c202ce4.css",
-    "main.js": "./static/js/main.143a9a9f.js",
-    "static/js/453.8ac198ee.chunk.js": "./static/js/453.8ac198ee.chunk.js",
-    "index.html": "./index.html",
-    "main.6c202ce4.css.map": "./static/css/main.6c202ce4.css.map",
-    "main.143a9a9f.js.map": "./static/js/main.143a9a9f.js.map",
-    "453.8ac198ee.chunk.js.map": "./static/js/453.8ac198ee.chunk.js.map"
+    "main.css": "/Ilaya-s/QR-code.git/static/css/main.85f4213a.css",
+    "main.js": "/Ilaya-s/QR-code.git/static/js/main.8eaaf7af.js",
+    "index.html": "/Ilaya-s/QR-code.git/index.html",
+    "main.85f4213a.css.map": "/Ilaya-s/QR-code.git/static/css/main.85f4213a.css.map",
+    "main.8eaaf7af.js.map": "/Ilaya-s/QR-code.git/static/js/main.8eaaf7af.js.map"
   },
   "entrypoints": [
-    "static/css/main.6c202ce4.css",
-    "static/js/main.143a9a9f.js"
+    "static/css/main.85f4213a.css",
+    "static/js/main.8eaaf7af.js"
   ]
 }
